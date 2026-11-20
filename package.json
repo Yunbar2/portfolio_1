@@ -1,0 +1,8 @@
+{
+  "name": "portfolio-first",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node dev-server.mjs"
+  }
+}
